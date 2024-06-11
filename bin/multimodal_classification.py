@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""An example script"""
+"""
+Run multimodal classification experiments for commitment bank.
+
+Usage Examples:
+    $ multimodal_classification.py --help
+    $ multimodal_classification.py configs/multimodal.json
+"""
 import dataclasses
 import hashlib
 import os
