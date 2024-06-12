@@ -1,6 +1,6 @@
 # Multimodal Belief
 
-This is the repository corresponding to [Multimodal Belief Prediction](), which was accepted to Interspeech 2024. It contains the code and data used for our unimodal baseline experiments as well as our multimodal fusion runs.
+This is the repository corresponding to [Multimodal Belief Prediction](https://arxiv.org/abs/2406.07466), which was accepted to Interspeech 2024. It contains the code and data used for our unimodal baseline experiments as well as our multimodal fusion runs.
 
 ## Installation
 Supposing [conda](https://docs.conda.io/en/latest/) and [poetry](https://python-poetry.org) are installed, the project dependencies can be setup using the following commands.
