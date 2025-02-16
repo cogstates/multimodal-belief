@@ -1,6 +1,6 @@
 # Multimodal Belief
 
-This is the repository corresponding to [Multimodal Belief Prediction](https://arxiv.org/abs/2406.07466), which was accepted to Interspeech 2024. It contains the code and data used for our unimodal baseline experiments as well as our multimodal fusion runs.
+This is the repository corresponding to [Multimodal Belief Prediction](https://www.isca-archive.org/interspeech_2024/murzaku24_interspeech.html), which was accepted to Interspeech 2024. It contains the code and data used for our unimodal baseline experiments as well as our multimodal fusion runs.
 
 ## Installation
 Supposing [conda](https://docs.conda.io/en/latest/) and [poetry](https://python-poetry.org) are installed, the project dependencies can be setup using the following commands.
@@ -30,10 +30,13 @@ multimodal-belief/
 
 ```
 @inproceedings{murzaku24_interspeech,
-    title={Multimodal Belief Prediction},
-    author={Adil Soubki and John Murzaku and Owen Rambow},
-    year={2024},
-    booktitle={Proc. INTERSPEECH 2024},
-    organization={ISCA}
+  title     = {Multimodal Belief Prediction},
+  author    = {John Murzaku and Adil Soubki and Owen Rambow},
+  year      = {2024},
+  booktitle = {Interspeech 2024},
+  pages     = {1075--1079},
+  doi       = {10.21437/Interspeech.2024-2103},
+  issn      = {2958-1796},
+  url       = {https://www.isca-archive.org/interspeech_2024/murzaku24_interspeech.html}
 }
 ```
